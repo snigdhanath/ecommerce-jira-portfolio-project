@@ -2,7 +2,7 @@
 
 ## 📌 Executive Summary
 * **Project Name:** E-Commerce Shopping Application (ESCA)
-* **Role:** IT Project Manager (Simulation)
+* **Role:** IT Project Manager 
 * **Methodology:** Scrum (Agile)
 * **Core Tooling:** Jira Cloud 
 
