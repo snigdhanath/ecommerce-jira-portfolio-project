@@ -48,3 +48,12 @@ To maintain absolute transparency for stakeholders, I configured the Jira **Summ
 <img width="1397" height="776" alt="image" src="https://github.com/user-attachments/assets/a27f5ce5-852a-486c-b6d0-3d81bcedab20" />
 
 ---
+
+
+## 🛠️ Key Technical Takeaways & PM Competencies
+
+This simulation demonstrates advanced proficiency in production-grade Jira Cloud administration and Agile governance, specifically focusing on:
+
+* **Custom Workflow Engineering:** Built tailored transition paths (e.g., "To Verify" QA gates) to enforce strict Definition of Done (DoD) compliance before deployment.
+* **Backlog Architecture:** Structured robust issue hierarchies mapping Epics, User Stories, Sub-tasks, and Bugs, using Fibonacci story pointing to secure predictable team velocity.
+* **Milestone & Release Strategy:** Leveraged Jira 'Fix Versions' to decouple core MVP functionality (Version 1.0) from sequential lifecycle improvements (Versions 2.0 & 3.0).
